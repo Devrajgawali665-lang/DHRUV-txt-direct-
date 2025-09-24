@@ -3,8 +3,8 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "28252944"))
-API_HASH = environ.get("API_HASH", "cfbc74a9ad88422c11aab2681572eba4)
+API_ID = int(environ.get("API_ID", "26221657"))
+API_HASH = environ.get("API_HASH", "d0edc320c6e8e358d13bc95556b02d7b)
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 OWNER = int(environ.get("OWNER", "8133790118"))
@@ -23,5 +23,6 @@ if int(OWNER) not in AUTH_USERS:
 api_url = "http://master-api-v3.vercel.app/"
 api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzkxOTMzNDE5NSIsInRnX3VzZXJuYW1lIjoi4p61IFtvZmZsaW5lXSIsImlhdCI6MTczODY5MjA3N30.SXzZ1MZcvMp5sGESj0hBKSghhxJ3k1GTWoBUbivUe1I"
 # .....,.....,.......,...,.......,....., .....,.....,.......,...,.
+
 
 
